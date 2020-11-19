@@ -1,0 +1,20 @@
+# Thanh Phat's coding standard
+
+## [Tiếng Việt](./vn/README.md)
+### - [PHP](./vn/README.md#php)
+### - [Android](./vn/README.md#android)
+### - [Ruby](./vn/README.md#ruby)
+### - [Ruby on Rails](./vn/README.md#ruby-on-rails)
+### - [Android](./vn/README.md#android)
+### - [Swift](./vn/README.md#swift)
+### - [HTML-CSS](./vn/html_css/standard.md)
+### - [Git](./vn/README.md#git)
+
+## [English](./en/README.md)
+### - [PHP](./en/README.md#php)
+### - [Ruby](./en/README.md#ruby)
+### - [Ruby on Rails](./en/README.md#ruby-on-rails)
+### - [Android](./en/README.md#android)
+### - [Swift](./en/README.md#swift)
+### - [HTML-CSS](./en/html_css/standard.md)
+### - [Git](./vn/README.md#git)
